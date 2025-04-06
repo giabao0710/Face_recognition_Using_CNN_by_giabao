@@ -4,8 +4,6 @@ The project has referenced the idea from the video: https://www.youtube.com/watc
 
 Please keep this file when copying the project or publishing it elsewhere. 
 
-Copying and claiming as your own in any form is strictly prohibited.
-
 Tools used: Visual Studio Code (make sure python, tensorflow and opencv are installed)
 
 Steps to run the project:
